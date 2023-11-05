@@ -1,7 +1,8 @@
-_Sviatoslav Zonov - nice to meet you!_
+_I am Sviatoslav Zonov, nice to meet you!_
 
 ![](img/face.jpg)
 
 #Это сайт за 5 минут!!!#
 
-    ![](img/men.jpeg)
+
+![](img/men.jpeg)
